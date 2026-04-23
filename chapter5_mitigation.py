@@ -1,20 +1,11 @@
 # ============================================================
-#  CHAPTER 5 — BIAS MITIGATION & EVALUATION
-#  Thesis: Evaluating and Mitigating Bias in AI-Based Credit
-#          Scoring Systems
-#  Dataset: German Credit Dataset
-#
+#  CHAPTER 5 
+#  
 #  IMPORTANT: Run chapter4_bias_detection.py first.
 #  This file builds directly on Chapter 4 results.
 # ============================================================
 #
-#  HOW TO RUN THIS FILE:
-#  1. Make sure german_credit.csv is in the same folder
-#  2. Install required libraries:
-#       pip install pandas numpy scikit-learn matplotlib seaborn
-#  3. Run:
-#       python chapter5_mitigation.py
-#  4. Charts will be saved as PNG files in the same folder
+#  
 # ============================================================
 
 
@@ -37,7 +28,6 @@ print("=" * 55)
 
 
 # ── STEP 2: Reload Dataset & Reproduce Baseline ─────────────
-# (Identical setup to Chapter 4 for consistency)
 print("\n[INFO] Loading dataset and reproducing Chapter 4 baseline...")
 
 df = pd.read_csv('german_credit.csv')
