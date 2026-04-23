@@ -1,6 +1,6 @@
 # Evaluating and Mitigating Bias in AI-Based Credit Scoring Systems
 
-Bachelor's Research Thesis — Computer Science, Georgian Technical University, 2025
+Bachelor's Research Thesis — Computer Science, Georgian Technical University, 2026
 
 ## Overview
 
